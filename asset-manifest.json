@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mikhail-zapolskyi/0003-calculator.git/static/css/main.81dc1d3f.css",
+    "main.js": "/mikhail-zapolskyi/0003-calculator.git/static/js/main.364e5888.js",
+    "index.html": "/mikhail-zapolskyi/0003-calculator.git/index.html",
+    "main.81dc1d3f.css.map": "/mikhail-zapolskyi/0003-calculator.git/static/css/main.81dc1d3f.css.map",
+    "main.364e5888.js.map": "/mikhail-zapolskyi/0003-calculator.git/static/js/main.364e5888.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81dc1d3f.css",
+    "static/js/main.364e5888.js"
+  ]
+}
