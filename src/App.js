@@ -204,7 +204,7 @@ const App = () => {
                                    <Typography color='orange'>{prev} {operator} {curr}</Typography>
                               </Grid>
                               <Grid item container xs={12} justifyContent='end' p={1}>
-                                   <Typography color='orange' fontSize={30} id='display'>{ Number.parseFloat(curr).toFixed(4) }</Typography>
+                                   <Typography color='orange' fontSize={30} id='display'>{ curr }</Typography>
                               </Grid>
                          </Grid>
                          <Grid item container xs={12} height={400}>
